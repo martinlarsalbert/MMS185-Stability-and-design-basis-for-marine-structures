@@ -1,0 +1,2 @@
+# MMS185-Stability-and-design-basis-for-marine-structures
+Some notes about tutorials in course [MMS185-Stability-and-design-basis-for-marine-structures](https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/course-syllabus/MMS185/).
