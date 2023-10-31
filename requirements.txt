@@ -1,0 +1,5 @@
+pandas
+matplotlib
+sympy
+scipy
+mms185
