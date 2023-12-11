@@ -22,6 +22,10 @@ def run(function, inputs={}, **kwargs):
     [type]
         [description]
     """
+    
+    if isinstance(function,sp.Eq):
+        function = lambdify(function)
+    
     s = signature(function)
     kwargs.update(inputs)
     parameters = list(s.parameters.keys())
